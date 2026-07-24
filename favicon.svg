@@ -1,7 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img">
-  <metadata>BPaaS site identity 4acff5fade41ad41</metadata>
-  <rect width="64" height="64" rx="10" fill="hsl(71 53% 30%)"/>
-  <path d="M27 0h37v64H13Z" fill="hsl(219 58% 59%)" opacity="0.82"/>
-  <g transform="rotate(37 32 32)" opacity="0.42"><circle cx="32" cy="32" r="17" fill="none" stroke="#ffffff" stroke-width="7"/></g>
-  <text x="32" y="39" text-anchor="middle" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" letter-spacing="0">YG</text>
+  <title>염창 룸싸롱 가격</title>
+  <rect width="64" height="64" rx="11" fill="hsl(71 54% 22%)"/>
+  <g transform="rotate(90 32 32)"><path d="M32 14 52 48H12Z" fill="none" stroke="hsl(71 24% 96%)" stroke-width="7" stroke-linejoin="round"/><path d="M32 30 41 46H23Z" fill="hsl(241 68% 63%)"/></g>
 </svg>
